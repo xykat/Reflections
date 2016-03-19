@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing sets up the tracking process; it is from this point that git metadata starts capturing what the changes being made are.
+We've to do it becuase of reasons above :)
+Also when you initialize a repository a .git folder is made where all the metadata is stored.
