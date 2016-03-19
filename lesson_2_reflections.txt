@@ -6,4 +6,5 @@ Working directory is the directory in hard drive where the files are present.
 Repository is the Git collections of commit.
 Staging area is the intermediate virtual directory where we add collection of files that will be edited and added in the repository as a single commit corresponding to one logical change.
 
-Making change to test COMMIT
+How can you use the staging area to make sure you have one commit per logical change?
+By using 'git add' you can add just the necessary files for the logical change to staging area and commit them accordingly.
