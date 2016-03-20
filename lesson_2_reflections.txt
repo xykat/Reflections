@@ -8,3 +8,9 @@ Staging area is the intermediate virtual directory where we add collection of fi
 
 How can you use the staging area to make sure you have one commit per logical change?
 By using 'git add' you can add just the necessary files for the logical change to staging area and commit them accordingly.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When we want to make experimental changes into a code its helpful to create a new branch since we'll have a seperate line of commits for development. The original branch can continue to be used as per original plan. It also helps us compartmentalize our work.
+
+How do the diagrams help you visualize the branch structure?
+Easy to track what happened after what. Also easy to notice possible missing branches which are "not reachable"
