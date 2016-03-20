@@ -14,3 +14,6 @@ When we want to make experimental changes into a code its helpful to create a ne
 
 How do the diagrams help you visualize the branch structure?
 Easy to track what happened after what. Also easy to notice possible missing branches which are "not reachable"
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+They become a single branch with history of commits of both branches. Because each commit is reachable from the final branch.
