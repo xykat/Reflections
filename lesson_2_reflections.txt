@@ -17,3 +17,6 @@ Easy to track what happened after what. Also easy to notice possible missing bra
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 They become a single branch with history of commits of both branches. Because each commit is reachable from the final branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros of automatic we dont have to worry or make decisions about whats the right version. Cons is that it may lead to meaningless code which wont complie; and that is where manual merge is helpful.
