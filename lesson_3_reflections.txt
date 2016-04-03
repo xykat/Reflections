@@ -9,3 +9,6 @@ Fork: To copy/clone someone's repository to ones account where you do not have t
 Clone: To create another copy of the repository
 Branch: To create a point from where the code can be written in seperate ways withing a repository.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It gives us an idea of how much have we progressed offline and out of reach of github(and other users)
+
